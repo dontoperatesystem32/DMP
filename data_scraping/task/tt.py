@@ -1,3 +1,6 @@
+#pseudocode for scraping a website and storing the data in dataclasses
+
+
 import dataclasses
 
 @dataclasses

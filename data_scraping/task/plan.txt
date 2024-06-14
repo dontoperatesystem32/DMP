@@ -1,0 +1,9 @@
+i've scraped the plain html from web page.
+found the div where all the products are listed
+
+i was planning to divide them into individual divs and store in dataclasses.
+each card would represend an individual product storing all the data about it
+such as name, description, div class name, etc.
+
+then i would use csv library 
+to convert all the dataclasses into a single csv file
